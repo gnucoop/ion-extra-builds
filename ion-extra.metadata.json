@@ -8,5 +8,5 @@
     }
   ],
   "flatModuleIndexRedirect": true,
-  "importAs": "@angular/ion-extra"
+  "importAs": "@gnucoop/ion-extra"
 }
