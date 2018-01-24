@@ -1,6 +1,6 @@
 {
   "name": "@gnucoop/ion-extra",
-  "version": "0.1.0-9575053",
+  "version": "0.1.0-0b58b8a",
   "description": "Ng-Extra for Angular Material",
   "main": "./bundles/ion-extra.umd.js",
   "module": "./esm5/ion-extra.es5.js",
